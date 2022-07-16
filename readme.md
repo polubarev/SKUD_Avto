@@ -26,3 +26,6 @@
 
 ## Интерфейс
 ![Image alt](https://github.com/polubarev/SKUD_Avto/blob/main/readme_images/4.png)
+
+## Видео пример работы системы
+https://youtu.be/_NTpVR3EmIg
