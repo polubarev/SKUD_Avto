@@ -16,13 +16,13 @@
 - В качестве источника сигнала можно использовать любое устройство видеозахвата (ip-камера, веб-камера, видеозапись)
 
 # Слайды с работой проекта
-![Иллюстрация к проекту](https://github.com/polubarev/SKUD_Avto/tree/main/readme_images/1.png)
+![Иллюстрация к проекту](https://github.com/polubarev/SKUD_Avto/blob/main/readme_images/1.png)
 
 ## Архитектура
-![Image alt](https://github.com/polubarev/SKUD_Avto/tree/main/readme_images/2.png)
+![Image alt](https://github.com/polubarev/SKUD_Avto/blob/main/readme_images/2.png)
 
 ## Нейросети
-![Image alt](https://github.com/polubarev/SKUD_Avto/tree/main/readme_images/3.png)
+![Image alt](https://github.com/polubarev/SKUD_Avto/blob/main/readme_images/3.png)
 
 ## Интерфейс
-![Image alt](https://github.com/polubarev/SKUD_Avto/tree/main/readme_images/4.png)
+![Image alt](https://github.com/polubarev/SKUD_Avto/blob/main/readme_images/4.png)
